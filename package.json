@@ -7,7 +7,7 @@
     "build": "tsc",
     "test": "jest",
     "test:watch": "jest --watchAll",
-    "generate": "ts-node src/create.ts"
+    "generate": "tsx src/create.ts"
   },
   "repository": {
     "type": "git",
@@ -23,7 +23,7 @@
     "@types/jest": "^30.0.0",
     "@types/node": "^24.10.1",
     "jest": "^30.2.0",
-    "ts-node": "^10.9.2",
+    "tsx": "^4.23.15",
     "typescript": "^7.0.2"
   },
   "dependencies": {

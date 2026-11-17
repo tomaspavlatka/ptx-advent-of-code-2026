@@ -22,6 +22,7 @@ npm install
 ## Commands
 
 ```sh
+npm run generate -- --day=2       # create src, test and resource files for day 2
 npm test                          # run all tests
 npm run test:watch                # run tests on each save
 npx jest tests/day1.spec.ts       # run one day
