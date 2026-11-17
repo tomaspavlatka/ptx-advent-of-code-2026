@@ -4,9 +4,10 @@ Solutions for [advent of code 2026](https://adventofcode.com/2026), using TypeSc
 
 ## Setup
 
-Requires Node.js 24.
+Requires Node.js 26 (see `.nvmrc`).
 
 ```sh
+nvm use
 npm install
 ```
 
