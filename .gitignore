@@ -17,6 +17,9 @@ logs/
 *.log
 log.txt
 
+# Puzzle inputs
+resources/
+
 # Jest coverage
 coverage/
 
